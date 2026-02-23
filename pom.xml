@@ -10,4 +10,5 @@
         <maven.compiler.release>25</maven.compiler.release>
         <exec.mainClass>br.edu.tds.projetopoo.ProjetoPOO</exec.mainClass>
     </properties>
+    <name>ProjetoPOO2</name>
 </project>
